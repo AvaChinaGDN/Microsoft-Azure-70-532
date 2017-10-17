@@ -45,4 +45,3 @@
 ![azure](images/1/24.png)
 
 [How To Deploy Web App To Azure Using Visual Studio](http://www.c-sharpcorner.com/article/how-to-deploy-web-app-to-azure-using-visual-studio/)
-
