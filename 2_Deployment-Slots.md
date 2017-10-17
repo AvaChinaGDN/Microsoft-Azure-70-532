@@ -61,3 +61,12 @@
 ![ds](images/2/30.png)
 
 ![ds](images/2/31.png)
+
+- Commands
+
+```PowerShell
+Add-AzureAccount
+Get-AzureSubscription
+New-AzureWebsite -Name "DemoWebSite-New" -Slot "uat"
+Switch-AzureWebsiteSlot -Name "DemoWebSite-New" -Slot1 "staging" -Slot2 "uat"
+```
