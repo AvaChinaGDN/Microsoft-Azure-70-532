@@ -1,6 +1,6 @@
 #### 7. Monitoring and Alerts
 
-![alert](images/77/7.png)
+![alert](images/7/1.png)
 
 ![alert](images/7/2.png)
 
