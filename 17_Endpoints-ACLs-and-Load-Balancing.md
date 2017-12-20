@@ -15,17 +15,3 @@
 ![eal](images/17/7.png)
 
 ![eal](images/17/8.png)
-
-![eal](images/17/9.png)
-
-![eal](images/17/10.png)
-
-![eal](images/17/11.png)
-
-![eal](images/17/12.png)
-
-![eal](images/17/13.png)
-
-![eal](images/17/14.png)
-
-![eal](images/17/15.png)
